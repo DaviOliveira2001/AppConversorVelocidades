@@ -14,7 +14,7 @@ App que converte e mostra as velocidades equivalentes em Quilômetros e Milhas.
 ## IDE:
 - Android Studio
 # App do projeto:
-- <a href="https://drive.google.com/file/d/1akUhlYXkJfPO30V7bbUJoU-RlKaSV_AK/view?usp=drive_link">download</a>
+- <a href="https://drive.google.com/file/d/1RvR10vh5vuMWPfaJkWPghwYOZ3GQHilW/view?usp=sharing">download</a>
 
 - # Como instalar:
 - Basta clicar em "download" que se encontra acima. Selecione o 1º email que aparece e instale o app no celular.
